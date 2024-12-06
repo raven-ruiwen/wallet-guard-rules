@@ -53,5 +53,10 @@
     "name": "pump",
     "url": "https://pump.fun",
     "tld": "pump.fun"
+  },
+  {
+    "name": "grafana",
+    "url": "http://47.242.16.190",
+    "tld": "47.242.16.190"
   }
 ]
